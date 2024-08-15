@@ -1,15 +1,29 @@
-# Bilel Mezhoud
+# Junior Data Scientist & ML Specialist
 
-Welcome to my GitHub portfolio! I am a passionate Junior Data Scientist and Machine Learning Professional. Explore my skills, work experience, and projects below.
+Welcome to my portfolio! I’m a passionate Data Scientist and Machine Learning Enthusiast, driven by the thrill of turning data into actionable insights. Dive into my journey, discover my skills, explore my work experience, and see how I tackle exciting projects with innovative solutions. Let’s connect and explore the possibilities together!
 
 ---
 
 ## 🔧 Skills
 
-- **Programming:** Python, Java, SQL
-- **Machine Learning:** NLP, TensorFlow, Scikit-Learn
-- **Geospatial Analysis:** GIS - ArcGIS
-- **Problem Solving:** Technical problem-solving, Collaborative teamwork
+**Technical Skills:** Python, Java, SQL, NLP, TensorFlow, Scikit-Learn, Pandas, PyTorch, GIS - ArcGIS  
+**Soft Skills:** Technical problem-solving, Collaborative teamwork
+
+---
+
+## 🎓 Education
+
+- **Master’s Degree in Applied Mathematics and Computer Science**  
+  Université du Québec à Trois-Rivières, Canada  
+  *2022 – 2024*
+
+- **Master’s Degree in Computer Systems**  
+  Université du 20 Août 1955 Skikda, Algeria  
+  *2016 – 2018*
+
+- **Bachelor’s Degree in Computer Science**  
+  Université du 20 Août 1955 Skikda, Algeria  
+  *2013 – 2016*
 
 ---
 
@@ -38,22 +52,6 @@ Welcome to my GitHub portfolio! I am a passionate Junior Data Scientist and Mach
 - Guided and supported students in their projects and practical work.
 - Assessed student performance and provided constructive feedback.
 - Participated in parent-teacher meetings and extracurricular activities related to computer science.
-
----
-
-## 🎓 Education
-
-- **Master’s Degree in Applied Mathematics and Computer Science**  
-  Université du Québec à Trois-Rivières, Canada  
-  *2022 – 2024*
-
-- **Master’s Degree in Computer Systems**  
-  Université du 20 Août 1955 Skikda, Algeria  
-  *2016 – 2018*
-
-- **Bachelor’s Degree in Computer Science**  
-  Université du 20 Août 1955 Skikda, Algeria  
-  *2013 – 2016*
 
 ---
 
