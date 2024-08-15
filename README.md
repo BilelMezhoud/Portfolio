@@ -55,7 +55,8 @@
 
 ### Lifecycle Management System (Developed with ArcGIS)
 
-- In collaboration with the City of Montreal, I developed the "Lifecycle Management" platform using ArcGIS. This comprehensive digital solution streamlines tree management, covering everything from inspection to task execution. It provides real-time traceability and enhances internal communication. 
+- In collaboration with the City of Montreal, I developed the "Lifecycle Management" platform using ArcGIS. This comprehensive digital solution streamlines tree management, covering everything from inspection to task execution. It provides real-time traceability and enhances internal communication.
+
 ![Lifecycle Management System (Developed with ArcGIS)](assets/img/PlanifCarte.PNG)  <!-- Replace with your project image -->
 
 ### Comparative Analysis and Spam Detection System
