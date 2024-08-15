@@ -26,13 +26,20 @@ Welcome to my portfolio! I’m a Data Scientist and Machine Learning enthusiast 
 
 ## 💼 Work Experience
 
-### GIS Developer && Horticulture and Arboriculture Inspector
+### Horticulture and Arboriculture Inspector (ArcGIS Developer)
 **City of Montreal**  
-*September 2023 – Present*
-- Developed and implemented GIS systems (ArcGIS) for managing urban green spaces and trees.
-- Integrated and analyzed geospatial data to optimize horticultural and arboricultural management.
-- Developed IT solutions to improve data collection and analysis in the field.
-- Collaborated with technical and field teams to effectively implement GIS projects.
+*Sep. 2023 – Present*
+
+- **ArcGIS Development:**
+  - Designed and developed GIS solutions using ArcGIS to manage green spaces and urban trees.
+  - Integrated and analyzed geospatial data to enhance horticultural and arboricultural practices.
+  - Created interactive dashboards and tools for data visualization and analysis.
+
+- **Horticulture and Arboriculture:**
+  - Performed inspections and oversight of horticultural and arboricultural activities.
+
+![ArcGIS Development](https://via.placeholder.com/600x400)  <!-- Replace with a relevant image if available -->
+
 
 ### Student - Office Assistant
 **City of Montreal**  
