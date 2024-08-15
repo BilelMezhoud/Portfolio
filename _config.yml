@@ -2,8 +2,7 @@ title: Bilel Mezhoud
 logo: /assets/img/profile_pic.png
 
 description: "Junior Data Scientist and Machine Learning Professional with expertise in Python, Java, SQL, and GIS systems development using ArcGIS."
-theme: jekyll-theme-Cayman
-
+theme: jekyll-theme-minimal
 social_links:
   - name: LinkedIn
     url: https://www.linkedin.com/in/bilel-mezhoud/
