@@ -6,18 +6,10 @@ Welcome to my GitHub portfolio! I am a passionate Junior Data Scientist and Mach
 
 ## 🔧 Skills
 
-- **Programming:**
-  - Python (data analysis, web development)
-  - Java (application development)
-  - SQL (database management)
-- **Machine Learning:**
-  - Natural Language Processing (NLP)
-  - TensorFlow, Scikit-Learn
-- **Geospatial Analysis:**
-  - Geographic Information Systems (GIS) - ArcGIS
-- **Problem Solving:**
-  - Technical problem-solving
-  - Collaborative teamwork
+- **Programming:** Python, Java, SQL
+- **Machine Learning:** NLP, TensorFlow, Scikit-Learn
+- **Geospatial Analysis:** GIS - ArcGIS
+- **Problem Solving:** Technical problem-solving, Collaborative teamwork
 
 ---
 
