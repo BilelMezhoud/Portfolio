@@ -64,17 +64,17 @@
 ![Comparative Analysis and Spam Detection System](https://via.placeholder.com/600x400)  <!-- Replace with your project image -->
 
 ### Handwritten Digit Recognition with Convolutional Neural Networks
-I developed a Python program using convolutional neural networks to recognize and classify handwritten digits, which significantly enhanced my image processing and machine learning skills.
+- This Python program effectively utilizes convolutional neural networks to recognize and classify handwritten digits. Developed to enhance image processing and machine learning skills, the project demonstrates advanced techniques in digit recognition and classification.
   
 ![Handwritten Digit Recognition](https://via.placeholder.com/600x400)  <!-- Replace with your project image -->
 
 ### Binary Classification System for Breast Cancer Detection
-I designed a binary classification system to differentiate between benign and malignant breast cancer, applying Principal Component Analysis (PCA) for data dimensionality reduction. This approach utilized advanced analysis techniques to improve classification accuracy, playing a crucial role in early cancer detection.
+- I designed a binary classification system to differentiate between benign and malignant breast cancer, applying Principal Component Analysis (PCA) for data dimensionality reduction. This approach utilized advanced analysis techniques to improve classification accuracy, playing a crucial role in early cancer detection.
   
 ![Handwritten Digit Recognition](https://via.placeholder.com/600x400)  <!-- Replace with your project image -->
 
 ### Face Mask Detection Application (OpenCV)
-I developed an application using the OpenCV library to detect the presence of face masks, leveraging technology to promote public health awareness and ensure compliance with health standards.
+- Developed an application using the OpenCV library to detect the presence of face masks, leveraging technology to promote public health awareness and ensure compliance with health standards.
   
 ![Handwritten Digit Recognition](https://via.placeholder.com/600x400)  <!-- Replace with your project image -->
 
