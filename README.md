@@ -54,16 +54,12 @@
 ## 📂 Projects
 
 ### Lifecycle Management System (Developed with ArcGIS)
-
 - In collaboration with the City of Montreal, I developed the "Lifecycle Management" platform using ArcGIS. This comprehensive digital solution streamlines tree management, covering everything from inspection to task execution. It provides real-time traceability and enhances internal communication.
 
 ![Lifecycle Management System (Developed with ArcGIS)](assets/img/PlanifCarte.PNG)  <!-- Replace with your project image -->
 
 ### Comparative Analysis and Spam Detection System
-
-- **Comparative Analysis of NLP Techniques:** Conducted a thorough evaluation of various NLP techniques, including word2vec, Glove, FastText, and BERT, to identify the most effective methods for spam classification. Assessed these models based on accuracy and computational efficiency using a specialized spam dataset.
-
-- **Spam Detection System:** Developed a robust spam detection system by optimizing the chosen NLP models. Designed an interactive interface that allows users to input messages and receive real-time predictions on whether the messages are classified as spam or not.
+- Conducted a thorough evaluation of various NLP techniques, including word2vec, Glove, FastText, and BERT, to identify the most effective methods for spam classification. This comparative analysis assessed the models based on both accuracy and computational efficiency using a specialized spam dataset. Following the evaluation, I developed a robust spam detection system by optimizing the chosen NLP models. Additionally, I designed an interactive interface that allows users to input messages and receive real-time predictions on whether the messages are classified as spam or not.
 
 ![Comparative Analysis and Spam Detection System](https://via.placeholder.com/600x400)  <!-- Replace with your project image -->
 
