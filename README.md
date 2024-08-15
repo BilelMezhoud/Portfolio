@@ -1,6 +1,6 @@
-# Junior Data Scientist & ML Specialist
+# Data Scientist & ML Specialist
 
-Welcome to my portfolio! I’m a passionate Data Scientist and Machine Learning Enthusiast, driven by the thrill of turning data into actionable insights. Dive into my journey, discover my skills, explore my work experience, and see how I tackle exciting projects with innovative solutions. Let’s connect and explore the possibilities together!
+Welcome to my portfolio! I’m a Data Scientist and Machine Learning enthusiast who loves turning data into insights. Check out my skills, work, and projects, and let’s see what we can achieve together!
 
 ---
 
@@ -13,18 +13,15 @@ Welcome to my portfolio! I’m a passionate Data Scientist and Machine Learning 
 
 ## 🎓 Education
 
-- **Master’s Degree in Applied Mathematics and Computer Science**  
-  Université du Québec à Trois-Rivières, Canada  
-  *2022 – 2024*
+- **M.S, Applied Mathematics and Computer Science**  
+  Université du Québec à Trois-Rivières, Canada (Aout 2024)
 
-- **Master’s Degree in Computer Systems**  
-  Université du 20 Août 1955 Skikda, Algeria  
-  *2016 – 2018*
+- **M.S, Computer Systems**  
+  Université du 20 Août 1955 Skikda, Algeria (May 2018)
 
-- **Bachelor’s Degree in Computer Science**  
-  Université du 20 Août 1955 Skikda, Algeria  
-  *2013 – 2016*
-
+- **B.S, Mathematics and Informatics**  
+  Université du 20 Août 1955 Skikda, Algeria (May 2016)
+  
 ---
 
 ## 💼 Work Experience
