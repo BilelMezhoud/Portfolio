@@ -1,4 +1,16 @@
 title: Bilel Mezhoud 
 logo: /assets/img/profile_pic.png
-description: Passionate about software development and data science, I hold a degree in applied mathematics and computer science from the Université du Québec à Trois-Rivières. As a specialist in Python, Java, and SQL, I have gained solid experience in artificial intelligence, particularly through an innovative research project that integrated AI and natural language processing for data classification, achieving exceptional performance that surpassed traditional methods. Additionally, I have developed GIS systems using ArcGIS for the City of Montreal, where I optimized green space management through geospatial integration and analysis, while designing dashboards for efficient information visualization.
-theme: jekyll-theme-Cayman 
+description: "Junior Data Scientist and Machine Learning Professional with expertise in Python, Java, SQL, and GIS systems development using ArcGIS."
+theme: jekyll-theme-Cayman
+
+social_links:
+  - name: LinkedIn
+    url: https://www.linkedin.com/in/bilel-mezhoud/
+  - name: GitHub
+    url: https://github.com/BilelMezhoud
+
+# SEO and metadata settings
+seo:
+  title: "Bilel Mezhoud - Data Scientist & Machine Learning Professional"
+  description: "Explore my portfolio showcasing projects in AI, GIS, and software development."
+  twitter_card: summary_large_image
