@@ -6,8 +6,8 @@ Welcome to my portfolio! I’m a Data Scientist and Machine Learning enthusiast 
 
 ## 🔧 Skills
 
-**Technical Skills:** Python, Java, SQL, NLP, TensorFlow, Scikit-Learn, Pandas, PyTorch, GIS - ArcGIS  
-**Soft Skills:** Technical problem-solving, Collaborative teamwork
+**Technical Skills:** Python, Java, SQL, NLP, TensorFlow, Scikit-Learn, Pandas, PyTorch, ArcGIS.  
+**Soft Skills:** Technical problem-solving, Collaborative teamwork.
 
 ---
 
@@ -26,30 +26,24 @@ Welcome to my portfolio! I’m a Data Scientist and Machine Learning enthusiast 
 
 ## 💼 Work Experience
 
-### Horticulture and Arboriculture Inspector (ArcGIS Developer)
-**City of Montreal**  
-*Sep. 2023 – Present*
+### GIS Developer & Horticulture and Arboriculture Inspector
+*City of Montreal*  
+*September 2023 – Present*
 
-- **ArcGIS Development:**
-  - Designed and developed GIS solutions using ArcGIS to manage green spaces and urban trees.
-  - Integrated and analyzed geospatial data to enhance horticultural and arboricultural practices.
-  - Created interactive dashboards and tools for data visualization and analysis.
-
-- **Horticulture and Arboriculture:**
-  - Performed inspections and oversight of horticultural and arboricultural activities.
-
-![ArcGIS Development](https://via.placeholder.com/600x400)  <!-- Replace with a relevant image if available -->
-
+- Developed and implemented GIS systems (ArcGIS) for managing urban green spaces and trees.
+- Integrated and analyzed geospatial data to optimize horticultural and arboricultural management.
+- Created IT solutions to enhance data collection and analysis in the field.
+- Collaborated with technical and field teams for effective GIS project implementation.
 
 ### Student - Office Assistant
-**City of Montreal**  
+*City of Montreal* 
 *May 2023 – September 2023*
 - Assisted in the field data collection for 20,000 trees.
 - Updated and managed databases.
 - Created work orders for field personnel.
 
 ### Computer Science Teacher
-**Khanchoul Youcef Secondary School, Algeria**  
+*Khanchoul Youcef Secondary School, Algeria*  
 *September 2019 – December 2021*
 - Prepared and taught computer science courses to high school students.
 - Developed lesson plans and educational materials for different levels.
