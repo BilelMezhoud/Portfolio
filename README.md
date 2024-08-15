@@ -26,7 +26,7 @@ Welcome to my portfolio! I’m a Data Scientist and Machine Learning enthusiast 
 
 ## 💼 Work Experience
 
-### Geographic Information Systems (GIS) Specialist / Horticulture and Arboriculture Inspector
+### GIS Developer && Horticulture and Arboriculture Inspector
 **City of Montreal**  
 *September 2023 – Present*
 - Developed and implemented GIS systems (ArcGIS) for managing urban green spaces and trees.
@@ -54,11 +54,13 @@ Welcome to my portfolio! I’m a Data Scientist and Machine Learning enthusiast 
 
 ## 📂 Projects
 
-### Comparative Analysis of Techniques (word2vec, Glove, FastText, Bert)
-- Conducted a comparative analysis to determine the most efficient technique in terms of accuracy and speed.
+### Comparative Analysis and Spam Detection System
 
-### Spam Detection with Natural Language Processing
-- Developed and optimized NLP models to improve spam detection beyond traditional methods.
+- **Comparative Analysis of NLP Techniques:** Conducted a thorough evaluation of various NLP techniques, including word2vec, Glove, FastText, and BERT, to identify the most effective methods for spam classification. Assessed these models based on accuracy and computational efficiency using a specialized spam dataset.
+
+- **Spam Detection System:** Developed a robust spam detection system by optimizing the chosen NLP models. Designed an interactive interface that allows users to input messages and receive real-time predictions on whether the messages are classified as spam or not.
+
+![Comparative Analysis and Spam Detection System](https://via.placeholder.com/600x400)  <!-- Replace with your project image -->
 
 ### Handwritten Digit Recognition with Convolutional Neural Networks
 - Developed a Python program using convolutional neural networks for the recognition and classification of handwritten digits.
@@ -70,14 +72,20 @@ Welcome to my portfolio! I’m a Data Scientist and Machine Learning enthusiast 
 - Designed a binary classification system to distinguish between benign and malignant breast cancer.
 - Applied Principal Component Analysis (PCA) for data dimensionality reduction.
 - Utilized advanced analysis techniques to enhance classification accuracy, contributing to early cancer detection.
+  
+![Handwritten Digit Recognition](https://via.placeholder.com/600x400)  <!-- Replace with your project image -->
 
 ### Face Mask Detection Application (OpenCV)
 - Designed an application using the OpenCV library to detect the presence of face masks.
 - Contributed to public health awareness by using technology to ensure compliance with health standards.
+  
+![Handwritten Digit Recognition](https://via.placeholder.com/600x400)  <!-- Replace with your project image -->
 
 ### Multi-Store E-commerce Website
 - Developed an e-commerce website from scratch.
 - Managed databases, developed a user-friendly interface, and ensured an optimal customer experience.
+  
+![Handwritten Digit Recognition](https://via.placeholder.com/600x400)  <!-- Replace with your project image -->
 
 ---
 
