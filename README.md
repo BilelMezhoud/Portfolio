@@ -43,7 +43,7 @@
 ### Computer Science Teacher
 **Khanchoul Youcef Secondary School, Algeria**  
 *September 2019 – December 2021*
-- Prepared and taught computer science courses to high school students.
+- Prepared and taught computer science courses to middle school students.
 - Developed lesson plans and educational materials for different levels.
 - Guided and supported students in their projects and practical work.
 - Assessed student performance and provided constructive feedback.
