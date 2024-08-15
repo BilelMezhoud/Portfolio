@@ -1,6 +1,11 @@
-# Junior Data Scientist & Machine Learning Professional
+# Bilel Mezhoud
 
-## Skills
+Welcome to my GitHub portfolio! I am a passionate Junior Data Scientist and Machine Learning Professional. Explore my skills, work experience, and projects below.
+
+---
+
+## 🔧 Skills
+
 - **Programming:**
   - Python (data analysis, web development)
   - Java (application development)
@@ -14,7 +19,9 @@
   - Technical problem-solving
   - Collaborative teamwork
 
-## Work Experience
+---
+
+## 💼 Work Experience
 
 ### Geographic Information Systems (GIS) Specialist / Horticulture and Arboriculture Inspector
 **City of Montreal**  
@@ -40,7 +47,9 @@
 - Assessed student performance and provided constructive feedback.
 - Participated in parent-teacher meetings and extracurricular activities related to computer science.
 
-## Education
+---
+
+## 🎓 Education
 
 - **Master’s Degree in Applied Mathematics and Computer Science**  
   Université du Québec à Trois-Rivières, Canada  
@@ -54,21 +63,43 @@
   Université du 20 Août 1955 Skikda, Algeria  
   *2013 – 2016*
 
-## Projects
+---
 
-- **Comparative Analysis of Techniques (word2vec, Glove, FastText, Bert):** Conducted a comparative analysis to determine the most efficient technique in terms of accuracy and speed.
+## 📂 Projects
 
-- **Spam Detection with Natural Language Processing:** Developed and optimized NLP models to improve spam detection beyond traditional methods.
+### Comparative Analysis of Techniques (word2vec, Glove, FastText, Bert)
+- Conducted a comparative analysis to determine the most efficient technique in terms of accuracy and speed.
 
-- **Handwritten Digit Recognition with Convolutional Neural Networks:** Developed a Python program using convolutional neural networks for the recognition and classification of handwritten digits. Strengthened image processing and machine learning skills.
+### Spam Detection with Natural Language Processing
+- Developed and optimized NLP models to improve spam detection beyond traditional methods.
 
-- **Binary Classification System for Breast Cancer Detection:** Designed a binary classification system to distinguish between benign and malignant breast cancer. Applied Principal Component Analysis (PCA) for data dimensionality reduction. Utilized advanced analysis techniques to enhance classification accuracy, contributing to early cancer detection.
+### Handwritten Digit Recognition with Convolutional Neural Networks
+- Developed a Python program using convolutional neural networks for the recognition and classification of handwritten digits.
+- Strengthened image processing and machine learning skills.
+  
+![Handwritten Digit Recognition](https://via.placeholder.com/600x400)  <!-- Replace with your project image -->
 
-- **Face Mask Detection Application (OpenCV):** Designed an application using the OpenCV library to detect the presence of face masks. Contributed to public health awareness by using technology to ensure compliance with health standards.
+### Binary Classification System for Breast Cancer Detection
+- Designed a binary classification system to distinguish between benign and malignant breast cancer.
+- Applied Principal Component Analysis (PCA) for data dimensionality reduction.
+- Utilized advanced analysis techniques to enhance classification accuracy, contributing to early cancer detection.
 
-- **Multi-Store E-commerce Website:** Developed an e-commerce website from scratch. Managed databases, developed a user-friendly interface, and ensured an optimal customer experience.
+### Face Mask Detection Application (OpenCV)
+- Designed an application using the OpenCV library to detect the presence of face masks.
+- Contributed to public health awareness by using technology to ensure compliance with health standards.
 
-## Languages
+### Multi-Store E-commerce Website
+- Developed an e-commerce website from scratch.
+- Managed databases, developed a user-friendly interface, and ensured an optimal customer experience.
+
+---
+
+## 🌐 Languages
 - French
 - English
 - Arabic
+
+---
+
+Feel free to check out my [LinkedIn](https://www.linkedin.com/in/bilel-mezhoud/) and [GitHub](https://github.com/BilelMezhoud) profiles for more information!
+
