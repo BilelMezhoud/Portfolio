@@ -41,7 +41,7 @@
 - Created work orders for field personnel.
 
 ### Computer Science Teacher
-**Khanchoul Youcef Secondary School, Algeria**  
+**Khanchoul Youcef Middle School, Algeria**  
 *September 2019 – December 2021*
 - Prepared and taught computer science courses to middle school students.
 - Developed lesson plans and educational materials for different levels.
@@ -59,26 +59,22 @@
 ![Lifecycle Management System (Developed with ArcGIS)](assets/img/PlanifCarte.PNG)  <!-- Replace with your project image -->
 
 ### Comparative Analysis and Spam Detection System
-- Conducted a thorough evaluation of various NLP techniques, including word2vec, Glove, FastText, and BERT, to identify the most effective methods for spam classification. This comparative analysis assessed the models based on both accuracy and computational efficiency using a specialized spam dataset. Following the evaluation, I developed a robust spam detection system by optimizing the chosen NLP models. Additionally, I designed an interactive interface that allows users to input messages and receive real-time predictions on whether the messages are classified as spam or not.
+- I conducted an in-depth evaluation of various NLP techniques, including word2vec, Glove, FastText, and BERT, to identify the most effective approach for spam classification. I then developed a robust spam detection system, optimizing the chosen models and creating an interactive interface that allows users to input messages and receive real-time predictions on whether the messages are spam.
 
 ![Comparative Analysis and Spam Detection System](https://via.placeholder.com/600x400)  <!-- Replace with your project image -->
 
 ### Handwritten Digit Recognition with Convolutional Neural Networks
-- Developed a Python program using convolutional neural networks for the recognition and classification of handwritten digits.
-- Strengthened image processing and machine learning skills.
+I developed a Python program using convolutional neural networks to recognize and classify handwritten digits, which significantly enhanced my image processing and machine learning skills.
   
 ![Handwritten Digit Recognition](https://via.placeholder.com/600x400)  <!-- Replace with your project image -->
 
 ### Binary Classification System for Breast Cancer Detection
-- Designed a binary classification system to distinguish between benign and malignant breast cancer.
-- Applied Principal Component Analysis (PCA) for data dimensionality reduction.
-- Utilized advanced analysis techniques to enhance classification accuracy, contributing to early cancer detection.
+I designed a binary classification system to differentiate between benign and malignant breast cancer, applying Principal Component Analysis (PCA) for data dimensionality reduction. This approach utilized advanced analysis techniques to improve classification accuracy, playing a crucial role in early cancer detection.
   
 ![Handwritten Digit Recognition](https://via.placeholder.com/600x400)  <!-- Replace with your project image -->
 
 ### Face Mask Detection Application (OpenCV)
-- Designed an application using the OpenCV library to detect the presence of face masks.
-- Contributed to public health awareness by using technology to ensure compliance with health standards.
+I developed an application using the OpenCV library to detect the presence of face masks, leveraging technology to promote public health awareness and ensure compliance with health standards.
   
 ![Handwritten Digit Recognition](https://via.placeholder.com/600x400)  <!-- Replace with your project image -->
 
