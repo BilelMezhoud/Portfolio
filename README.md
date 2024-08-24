@@ -66,7 +66,7 @@
 ### Handwritten Digit Recognition with Convolutional Neural Networks
 - This Python program effectively utilizes convolutional neural networks to recognize and classify handwritten digits. Developed to enhance image processing and machine learning skills, the project demonstrates advanced techniques in digit recognition and classification.
   
-![Handwritten Digit Recognition](assets/img/Reconnaissance_des_chiffres_manuscrites_python.png)  <!-- Replace with your project image -->
+![Handwritten Digit Recognition](assets/img/Reconnaissance_des_chiffres_manuscrites_python.PNG)  <!-- Replace with your project image -->
 
 ### Binary Classification System for Breast Cancer Detection
 - I designed a binary classification system to differentiate between benign and malignant breast cancer, applying Principal Component Analysis (PCA) for data dimensionality reduction. This approach utilized advanced analysis techniques to improve classification accuracy, playing a crucial role in early cancer detection.
