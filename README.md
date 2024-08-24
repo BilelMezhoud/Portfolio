@@ -72,6 +72,7 @@
 - I designed a binary classification system to differentiate between benign and malignant breast cancer, applying Principal Component Analysis (PCA) for data dimensionality reduction. This approach utilized advanced analysis techniques to improve classification accuracy, playing a crucial role in early cancer detection.
   
 ![Binary Classification System for Breast Cancer Detection](assets/img/Brest_cancer_detection_2dim.png)  <!-- Replace with your project image -->
+![Binary Classification System for Breast Cancer Detection](assets/img/Result_Brest_cancer_detection_2dim.png)  <!-- Replace with your project image -->
 
 ### Face Mask Detection Application (OpenCV)
 - Developed an application using the OpenCV library to detect the presence of face masks, leveraging technology to promote public health awareness and ensure compliance with health standards.
