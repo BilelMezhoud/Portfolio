@@ -61,12 +61,12 @@
 ### Comparative Analysis and Spam Detection System
 - I conducted an in-depth evaluation of various NLP techniques, including word2vec, Glove, FastText, and BERT, to identify the most effective approach for spam classification. I then developed a robust spam detection system, optimizing the chosen models and creating an interactive interface that allows users to input messages and receive real-time predictions on whether the messages are spam.
 
-![Comparative Analysis and Spam Detection System](https://via.placeholder.com/600x400)  <!-- Replace with your project image -->
+![Comparative Analysis and Spam Detection System](https://via.placeholder.com/Reconnaissance_des_chiffres_manuscrites_python.png)  <!-- Replace with your project image -->
 
 ### Handwritten Digit Recognition with Convolutional Neural Networks
 - This Python program effectively utilizes convolutional neural networks to recognize and classify handwritten digits. Developed to enhance image processing and machine learning skills, the project demonstrates advanced techniques in digit recognition and classification.
   
-![Handwritten Digit Recognition](https://via.placeholder.com/600x400)  <!-- Replace with your project image -->
+![Handwritten Digit Recognition](assets/img/Reconnaissance_des_chiffres_manuscrites_python.png)  <!-- Replace with your project image -->
 
 ### Binary Classification System for Breast Cancer Detection
 - I designed a binary classification system to differentiate between benign and malignant breast cancer, applying Principal Component Analysis (PCA) for data dimensionality reduction. This approach utilized advanced analysis techniques to improve classification accuracy, playing a crucial role in early cancer detection.
