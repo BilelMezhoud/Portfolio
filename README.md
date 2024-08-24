@@ -76,7 +76,7 @@
 ### Face Mask Detection Application (OpenCV)
 - Developed an application using the OpenCV library to detect the presence of face masks, leveraging technology to promote public health awareness and ensure compliance with health standards.
   
-![Handwritten Digit Recognition](https://via.placeholder.com/600x400)  <!-- Replace with your project image -->
+![Handwritten Digit Recognition](assets/img/Mask_detection.png)  <!-- Replace with your project image -->
 
 ### Multi-Store E-commerce Website
 - Developed an e-commerce website from scratch.
