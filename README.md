@@ -19,7 +19,7 @@
 ## 🎓 Education
 
 - **M.S, Applied Mathematics and Computer Science**  
-  Université du Québec à Trois-Rivières, Canada (Aout 2024)
+  Université du Québec à Trois-Rivières, Canada (October 2024)
 
 - **M.S, Computer Systems**  
   Université du 20 Août 1955 Skikda, Algeria (May 2018)
