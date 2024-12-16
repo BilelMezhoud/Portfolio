@@ -4,7 +4,6 @@
 
 ## 🔧 Skills
 
-**Technical Skills:
 **Programming:** Java, Python, HTML5, CSS3
 **Databases:** Design, management, and SQL queries
 **Software Development:** Robust and scalable applications, REST APIs
