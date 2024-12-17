@@ -32,14 +32,12 @@
 ## 💼 Work Experience
 
 ### City of Montreal
-
 **GIS Developer & Horticulture and Arboriculture Inspector**  
 *September 2023 – December 2024*
 - Developed and implemented GIS systems (ArcGIS) for managing urban green spaces and trees.
 - Integrated and analyzed geospatial data to optimize horticultural and arboricultural management.
 - Created IT solutions to enhance data collection and analysis in the field.
 - Collaborated with technical and field teams for effective GIS project implementation.
-
 **Office Assistant**
 *May 2023 – September 2023*
 - Assisted in the field data collection for 20,000 trees.
@@ -47,7 +45,6 @@
 - Created work orders for field personnel.
 
 ### Khanchoul Youcef Middle School, Algeria
-
 **Computer Science Teacher**  
 *September 2019 – December 2021*
 - Prepared and taught computer science courses to middle school students.
