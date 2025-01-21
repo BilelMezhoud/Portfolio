@@ -38,7 +38,7 @@
 - Integrated and analyzed geospatial data to optimize horticultural and arboricultural management.
 - Created IT solutions to enhance data collection and analysis in the field.
 - Collaborated with technical and field teams for effective GIS project implementation.
-**Office Assistant**
+**- Office Assistant**
 *May 2023 – September 2023*
 - Assisted in the field data collection for 20,000 trees.
 - Updated and managed databases.
