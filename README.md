@@ -18,15 +18,7 @@
 
 ## 🔧 Skills
 
-- **Programming:** Java, Python, HTML5, CSS3  
-- **Databases:** Design, management, and SQL queries  
-- **Software Development:** Robust and scalable applications, REST APIs  
-- **Machine Learning:** Modeling and implementation with TensorFlow and Scikit-learn  
-- **Technical Analysis:** Writing specifications, bug resolution  
-- **Geospatial:** Development and management of GIS solutions with ArcGIS  
-- **Methodologies:** Agile  
-- **Tools:** Basic knowledge of Git, ready to develop advanced skills  
-- **General Skills:** Team collaboration, fast learning, adaptability  
+Java, Python, HTML5, CSS3, SQL, REST APIs, Pandas, NLP, TensorFlow, Scikit-learn, Machine Learning, Maximo, ArcGIS, Esri ArcGIS, Git, Agile, Data Analysis, Team Collaboration, Adaptability 
 
 ---
 
