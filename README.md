@@ -18,7 +18,7 @@
 
 ## 🔧 Skills
 
-Java, Python, HTML5, CSS3, SQL, REST APIs, Pandas, NLP, TensorFlow, Scikit-learn, Machine Learning, Maximo, ArcGIS, Esri ArcGIS, Git, Agile, Data Analysis, Team Collaboration, Adaptability 
+**Java**, **Python**, **HTML5**, **CSS3**, **SQL**, **REST APIs**, **Pandas**, **NLP**, **TensorFlow**, **Scikit-learn**, **Machine Learning**, **Maximo**, **ArcGIS**, **Esri ArcGIS**, **Git**, **Agile**, **Data Analysis**, **Team Collaboration**, **Adaptability**
 
 ---
 
