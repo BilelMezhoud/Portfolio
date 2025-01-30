@@ -38,7 +38,7 @@
 ## 💼 Work Experience
 
 ### City of Montreal
-**- GIS Developer**  
+**- GIS Analyst**  
 *September 2023 – December 2024*
 - Developed and implemented GIS systems (ArcGIS) for managing urban green spaces and trees.
 - Integrated and analyzed geospatial data to optimize horticultural and arboricultural management.
