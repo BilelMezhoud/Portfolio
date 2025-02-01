@@ -8,8 +8,12 @@
   <!-- Premier badge -->
   <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="56c707d9-6e12-40b4-a1d0-869dd308b326" data-share-badge-host="https://www.credly.com"></div>
   <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
+  
   <!-- Deuxième badge -->
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="06af327d-02e6-4e37-aaf3-6ba123311fc2" data-share-badge-host="https://www.credly.com"></div>
+  <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+  <!-- toisième badge -->
   <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="103f5828-3359-4770-b9c0-476c56689ef9" data-share-badge-host="https://www.credly.com"></div>
   <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 </div>
