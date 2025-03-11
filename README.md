@@ -94,6 +94,16 @@
   
 ![Handwritten Digit Recognition](assets/img/Mask_detection.png)  <!-- Replace with your project image -->
 
+### Stock Management Application
+- Développé une application de gestion de stock avec Java et MySQL.
+- Conçu la base de données à l'aide d'UML et géré les connexions via MySQL Workbench.
+- Mis en place plusieurs interfaces utilisateur :
+Interface d'authentification
+Interface pour l'administrateur permettant de gérer les clients, les produits et les camions
+Interface dédiée aux vendeurs pour la gestion des ventes et des stocks.
+  
+![Handwritten Digit Recognition](https://via.placeholder.com/600x400)  <!-- Replace with your project image -->
+
 ### Multi-Store E-commerce Website
 - Developed an e-commerce website from scratch.
 - Managed databases, developed a user-friendly interface, and ensured an optimal customer experience.
