@@ -99,10 +99,12 @@
 - Conçu la base de données à l'aide d'UML et géré les connexions via MySQL Workbench.
 - Mis en place plusieurs interfaces utilisateur :
 Interface d'authentification
-Interface pour l'administrateur permettant de gérer les clients, les produits et les camions
+Interface pour l'administrateur permettant de gérer les produits, les fournisseurs et les camions :   
+![Handwritten Digit Recognition](assets/img/Gestion_fournisseurs.png)  <!-- Replace with your project image -->
+![Handwritten Digit Recognition](assets/img/Gestion_Clients.png)  <!-- Replace with your project image -->
 Interface dédiée aux vendeurs pour la gestion des ventes et des stocks.
-  
-![Handwritten Digit Recognition](https://via.placeholder.com/600x400)  <!-- Replace with your project image -->
+![Handwritten Digit Recognition](assets/img/Vendeurs.png)  <!-- Replace with your project image -->
+
 
 ### Multi-Store E-commerce Website
 - Developed an e-commerce website from scratch.
