@@ -41,6 +41,14 @@
 
 ## 💼 Work Experience
 
+### Deck Technologies Inc
+**- AI Operations Associate**  
+*May 2025 – June 2025*
+- Verified and manually updated data in a SaaS system based on a tracking file.
+- Researched and validated information from web sources to ensure data quality.
+- Handled high-frequency numerical data with precision and attention to detail.
+- Contributed to the reliability of an AI system by following strict accuracy and speed guidelines.
+
 ### City of Montreal
 **- GIS Analyst**  
 *September 2023 – December 2024*
@@ -48,7 +56,6 @@
 - Integrated and analyzed geospatial data to optimize horticultural and arboricultural management.
 - Created IT solutions to enhance data collection and analysis in the field.
 - Collaborated with technical and field teams for effective GIS project implementation.
-
 **- Office Assistant**
 *May 2023 – September 2023*
 - Assisted in the field data collection for 20,000 trees.
